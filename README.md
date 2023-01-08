@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jackaylohana
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on interdisciplinary projects with application of ML and DL.
-- 📫 How to reach me: email: jackaylohana@gmail.com Cell: +92-3332545909
+- 👋 Hi there, this is @jackaylohana
+- 👀 Interested in Data Science and Cloud Computing
+- 🌱 Currently learning Advanced Machine Learning and Deep Learning
+- 💞️ Looking to collaborate on interdisciplinary projects with application of ML and DL.
+- 📫 Reach me at email: jackaylohana@gmail.com Cell: +92-3332545909
 
 <!---
 jackaylohana/jackaylohana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
